@@ -1,14 +1,14 @@
-<!-- LeDaiThang-B19DCCN657 -->
+LeDaiThang-B19DCCN657
 
-<!-- Database -->
+Database
 Create table taco with field id, name, type.
 
-<!-- Backend -->
+Backend
 cd backend
 install: mvn install
 run: mvn spring-boot:run
 
-<!-- Frontend -->
+Frontend
 cd frontend
 install: mvn install
 run: mvn spring-boot:run
